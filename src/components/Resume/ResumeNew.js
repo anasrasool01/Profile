@@ -19,7 +19,7 @@ function ResumeNew() {
       <Container fluid className="resume-section">
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
-            variant="primary"
+            variant="secondary"
             href={pdf}
             target="_blank"
             style={{ maxWidth: "250px" }}
@@ -37,7 +37,7 @@ function ResumeNew() {
 
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
-            variant="primary"
+            variant="secondary"
             href={pdf}
             target="_blank"
             style={{ maxWidth: "250px" }}

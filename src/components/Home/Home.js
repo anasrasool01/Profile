@@ -10,9 +10,9 @@ function Home() {
       <Container fluid className="home-section" id="home">
         <Container className="home-content">
           <Row>
-            <Col md={7} className="home-header">
+            <Col md={7} className="pt-5">
               <h1 style={{ paddingBottom: 15 }} className="heading">
-                Hi There!{" "}
+                Hi There!
                 <span className="wave" role="img" aria-labelledby="wave">
                   👋🏻
                 </span>
